@@ -1,0 +1,1 @@
+python3 -m llama_cpp.server --model model/orca_mini_v3_7b.Q4_K_M.gguf --host 0.0.0.0 --port 11434
